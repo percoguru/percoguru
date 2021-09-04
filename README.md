@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @percoguru. People call me Gaurav Mehra or Guru.
-- 👀 I’m interested in NodeJs, GoLang and TypeScript
+- 👀 I’m interested in Web Development ( NodeJs, Golang, React ) and Mobile Development (React Native). Basically I like building things.
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on interesting logic oriented projects
 - 📫 How to reach me - gurugmbs8@gmail.com
